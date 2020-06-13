@@ -42,5 +42,5 @@ if (screen.width >= 768) {
 // API 后端可自行搭建，参考 https://github.com/fghrsh/live2d_api
 // 初始化看板娘会自动加载指定目录下的 waifu-tips.json
 
-console.log(`Live2D看板娘加载完成，欢迎阅读本站时评！`);
-console.log(`Cloudflare CDN 已部署 taiga.ink受到Cloudflare保护 `);
+console.log(`Live2D看板娘加载完成`);
+console.log(`Welcome~ `);
